@@ -1,0 +1,20 @@
+﻿  Firewall.cpp
+C:\Users\thinkpad\source\repos\Firewall\Firewall\resource.h(20,1): warning C4005: 'IDM_EXIT': macro redefinition
+C:\Users\thinkpad\source\repos\Firewall\Firewall\resource.h(14): message : see previous definition of 'IDM_EXIT'
+C:\Users\thinkpad\source\repos\Firewall\Firewall\resource.h(22,1): warning C4005: 'IDI_FIREWALL': macro redefinition
+C:\Users\thinkpad\source\repos\Firewall\Firewall\resource.h(15): message : see previous definition of 'IDI_FIREWALL'
+C:\Users\thinkpad\source\repos\Firewall\Firewall\resource.h(23,1): warning C4005: 'IDC_FIREWALL': macro redefinition
+C:\Users\thinkpad\source\repos\Firewall\Firewall\resource.h(17): message : see previous definition of 'IDC_FIREWALL'
+C:\Users\thinkpad\source\repos\Firewall\Firewall\resource.h(14,1): warning C4005: 'IDM_EXIT': macro redefinition
+C:\Users\thinkpad\source\repos\Firewall\Firewall\resource.h(20): message : see previous definition of 'IDM_EXIT'
+C:\Users\thinkpad\source\repos\Firewall\Firewall\resource.h(15,1): warning C4005: 'IDI_FIREWALL': macro redefinition
+C:\Users\thinkpad\source\repos\Firewall\Firewall\resource.h(22): message : see previous definition of 'IDI_FIREWALL'
+C:\Users\thinkpad\source\repos\Firewall\Firewall\resource.h(17,1): warning C4005: 'IDC_FIREWALL': macro redefinition
+C:\Users\thinkpad\source\repos\Firewall\Firewall\resource.h(23): message : see previous definition of 'IDC_FIREWALL'
+C:\Users\thinkpad\source\repos\Firewall\Firewall\resource.h(20,1): warning C4005: 'IDM_EXIT': macro redefinition
+C:\Users\thinkpad\source\repos\Firewall\Firewall\resource.h(14): message : see previous definition of 'IDM_EXIT'
+C:\Users\thinkpad\source\repos\Firewall\Firewall\resource.h(22,1): warning C4005: 'IDI_FIREWALL': macro redefinition
+C:\Users\thinkpad\source\repos\Firewall\Firewall\resource.h(15): message : see previous definition of 'IDI_FIREWALL'
+C:\Users\thinkpad\source\repos\Firewall\Firewall\resource.h(23,1): warning C4005: 'IDC_FIREWALL': macro redefinition
+C:\Users\thinkpad\source\repos\Firewall\Firewall\resource.h(17): message : see previous definition of 'IDC_FIREWALL'
+  Firewall.vcxproj -> C:\Users\thinkpad\source\repos\Firewall\Debug\Firewall.exe
