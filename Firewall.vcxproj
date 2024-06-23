@@ -149,6 +149,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Firewall.cpp" />
+    <ClCompile Include="PacketCapture.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Firewall.rc" />
